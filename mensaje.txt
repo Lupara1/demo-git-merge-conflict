@@ -1,11 +1,9 @@
-hola mundo
+hola mundo de piruleta
 adios mercurio
-
 
 linea1
 linea2
 
-
-lineaz
+linea1
 lineay
 

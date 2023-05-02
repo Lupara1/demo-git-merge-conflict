@@ -5,5 +5,7 @@ adios mercurio
 linea1
 linea2
 
-linea40
-linea50
+
+lineax
+lineay
+

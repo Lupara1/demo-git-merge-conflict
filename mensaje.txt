@@ -1,4 +1,4 @@
-hola mundo de fresa
+hola mundo de piruleta
 adios mercurio
 
 
@@ -6,6 +6,6 @@ linea1
 linea2
 
 
-lineax
+linea1
 lineay
 

@@ -1,10 +1,8 @@
 hola mundo de piruleta
 adios mercurio
 
-
 linea1
 linea2
-
 
 linea1
 lineay
